@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-s2oy3on.github.io-1C56A3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://s2oy3on.github.io)
 [![Email](https://img.shields.io/badge/Email-seoye0nn%40naver.com-1C56A3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seoye0nn@naver.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-변서연-1C56A3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/서연-변-22ab02348)
+
 
 </div>
 
